@@ -4,6 +4,6 @@
 
 <mapper namespace="config.UserMapper">
 	<select id="GetUserByID" parameterType="string" resultType="User">
-		select * from RASTUSER where user_id = #{id}
+		select * from ICETUSER where user_id = #{id}
     </select>
 </mapper>
