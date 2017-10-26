@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.USER_LIBRARY/DB2Driver"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.USER_LIBRARY/servlet"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.USER_LIBRARY/Strtus2.3"/>
+	<classpathentry kind="lib" path="D:/Program Files/Eclipse-SDK/driver/mysql-connector-java-5.1.39-bin.jar"/>
+	<classpathentry kind="lib" path="D:/Program Files/Eclipse-SDK/LIB/mybatis-3.4.4.jar" sourcepath="C:/Users/IBM_ADMIN/.m2/repository/org/mybatis/mybatis/3.4.4/mybatis-3.4.4-sources.jar"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="output" path="WebRoot/WEB-INF/classes"/>
+</classpath>
